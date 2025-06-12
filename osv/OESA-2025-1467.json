@@ -1,9 +1,9 @@
 {
-    "schema_version": "1.6.0",
+    "schema_version": "1.7.0",
     "id": "OESA-2025-1467",
     "modified": "2025-05-09T12:42:10Z",
     "published": "2025-05-09T12:42:10Z",
-    "related": [
+    "upstream": [
         "CVE-2021-40323",
         "CVE-2021-40324",
         "CVE-2021-45081",

@@ -1,9 +1,9 @@
 {
-    "schema_version": "1.6.0",
+    "schema_version": "1.7.0",
     "id": "OESA-2025-1490",
     "modified": "2025-05-09T12:43:04Z",
     "published": "2025-05-09T12:43:04Z",
-    "related": [
+    "upstream": [
         "CVE-2025-30211"
     ],
     "summary": "erlang security update",

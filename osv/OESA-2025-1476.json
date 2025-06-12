@@ -1,9 +1,9 @@
 {
-    "schema_version": "1.6.0",
+    "schema_version": "1.7.0",
     "id": "OESA-2025-1476",
     "modified": "2025-05-09T12:42:27Z",
     "published": "2025-05-09T12:42:27Z",
-    "related": [
+    "upstream": [
         "CVE-2025-43903"
     ],
     "summary": "poppler security update",

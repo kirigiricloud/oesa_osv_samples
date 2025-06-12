@@ -1,9 +1,9 @@
 {
-    "schema_version": "1.6.0",
+    "schema_version": "1.7.0",
     "id": "OESA-2025-1503",
     "modified": "2025-05-09T12:43:23Z",
     "published": "2025-05-09T12:43:23Z",
-    "related": [
+    "upstream": [
         "CVE-2024-38797"
     ],
     "summary": "edk2 security update",

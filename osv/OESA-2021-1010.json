@@ -1,9 +1,9 @@
 {
-    "schema_version": "1.6.0",
+    "schema_version": "1.7.0",
     "id": "OESA-2021-1010",
     "modified": "2021-02-04T11:02:34Z",
     "published": "2021-02-04T11:02:34Z",
-    "related": [
+    "upstream": [
         "CVE-2020-14339"
     ],
     "summary": "libvirt security update",

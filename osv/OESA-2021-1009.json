@@ -1,9 +1,9 @@
 {
-    "schema_version": "1.6.0",
+    "schema_version": "1.7.0",
     "id": "OESA-2021-1009",
     "modified": "2021-02-04T11:02:33Z",
     "published": "2021-02-04T11:02:33Z",
-    "related": [
+    "upstream": [
         "CVE-2020-12059"
     ],
     "summary": "ceph security update",
